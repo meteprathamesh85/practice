@@ -115,7 +115,7 @@ const double = (num) => {
 const result = map.map(double)
 console.log(result) */
 
-function createCounter() {
+/* function createCounter() {
     let count = 99;
     return function(){
         count++;
@@ -127,4 +127,4 @@ const counter = createCounter();
 console.log(counter());
 console.log(counter());
 console.log(counter());
-console.log(counter());
+console.log(counter()); */
